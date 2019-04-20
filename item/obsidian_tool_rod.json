@@ -1,0 +1,6 @@
+{
+   "parent": "item/handheld",
+   "textures": {
+       "layer0": "tranquilexp:items/obsidian_tool_rod"
+   }
+}
