@@ -1,0 +1,12 @@
+{
+    "parent": "block/orientable",
+    "textures": {
+        "particle": "tranquilexp:blocks/alloy_caster_front_off",
+        "up": "tranquilexp:blocks/alloy_caster_top",
+        "down": "tranquilexp:blocks/alloy_caster_bottom",
+        "north": "tranquilexp:blocks/alloy_caster_front_off",
+        "east": "tranquilexp:blocks/alloy_caster_side1",
+        "south": "tranquilexp:blocks/alloy_caster_side2",
+        "west": "tranquilexp:blocks/alloy_caster_side3"
+    }
+}
