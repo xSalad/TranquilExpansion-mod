@@ -1,0 +1,25 @@
+{
+    "type": "minecraft:crafting_shaped",
+   
+    "pattern":
+    [
+        "X"       
+    ],
+   
+    "key":
+    {
+
+        "X":
+        {
+            "item": "tranquilexp:tin_block"
+
+        }
+        
+    },
+   
+    "result":
+    {
+        "item": "tranquilexp:tin_ingot",
+        "count": 9
+    }
+}

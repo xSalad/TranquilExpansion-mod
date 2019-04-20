@@ -1,0 +1,30 @@
+{
+    "type": "minecraft:crafting_shaped",
+   
+    "pattern":
+    [
+        "SSS",
+        "G G"
+    ],
+   
+    "key":
+    {
+        "S":
+        {
+            "item": "tranquilexp:reinforced_searium"
+        },
+        
+        "G":
+        {
+            "item": "tranquilexp:searium_infused_gem"
+
+        }     
+        
+    },
+   
+    "result":
+    {
+        "item": "tranquilexp:searium_helmet",
+        "count": 1
+    }
+}

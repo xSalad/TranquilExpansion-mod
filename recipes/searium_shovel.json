@@ -1,0 +1,32 @@
+{
+    "type": "minecraft:crafting_shaped",
+   
+    "pattern":
+    [
+        " S ",
+        " R ",
+        " R "
+    ],
+   
+    "key":
+    {
+        "S":
+        {
+            "item": "tranquilexp:reinforced_searium"
+        },
+        
+        "R":
+        {
+            "item": "tranquilexp:searium_tool_rod"
+
+        }
+        
+        
+    },
+   
+    "result":
+    {
+        "item": "tranquilexp:searium_shovel",
+        "count": 1
+    }
+}

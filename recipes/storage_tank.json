@@ -1,0 +1,43 @@
+{
+    "type": "minecraft:crafting_shaped",
+   
+    "pattern":
+    [
+        "THT",
+        "OGO",
+        "TGT"
+    ],
+   
+    "key":
+    {
+        "T":
+        {
+            "item": "tranquilexp:titanium_ingot"
+        },
+        
+        "H":
+        {
+            "item": "minecraft:hopper"
+
+        },
+        
+        "O":
+        {
+            "item": "tranquilexp:obsidian_plating"
+
+        },
+        
+                "G":
+        {
+            "item": "tranquilexp:reinforced_glass_panel"
+
+        }
+        
+    },
+   
+    "result":
+    {
+        "item": "tranquilexp:storage_tank",
+        "count": 1
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "type": "minecraft:crafting_shaped",
+   
+    "pattern":
+    [
+        "SSS",
+        "SSS",
+        "SSS"
+    ],
+   
+    "key":
+    {
+    
+        "S":
+        {
+            "item": "tranquilexp:searium_ingot"
+        }
+        
+    },
+   
+    "result":
+    {
+        "item": "tranquilexp:searium_block",
+        "count": 1
+    }
+}

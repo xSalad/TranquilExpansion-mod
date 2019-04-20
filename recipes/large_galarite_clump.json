@@ -1,0 +1,29 @@
+{
+    "type": "minecraft:crafting_shaped",
+   
+    "pattern":
+    [
+        "GGG",
+        "GEG",
+        "GGG"
+    ],
+   
+    "key":
+    {
+        "G":
+        {
+            "item": "tranquilexp:galarite_clump"
+        },
+        
+        "E":
+        {
+            "item": "minecraft:ender_eye"
+        }
+    },
+   
+    "result":
+    {
+        "item": "tranquilexp:large_galarite_clump",
+        "count": 1
+    }
+}

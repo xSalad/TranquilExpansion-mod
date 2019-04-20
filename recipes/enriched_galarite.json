@@ -1,0 +1,34 @@
+{
+    "type": "minecraft:crafting_shaped",
+   
+    "pattern":
+    [
+        "HEH",
+        "EGE",
+        "HEH"
+    ],
+   
+    "key":
+    {
+        "H":
+        {
+            "item": "tranquilexp:heavy_scales"
+        },
+        
+        "E":
+        {
+            "item": "tranquilexp:energized_crystal"
+        },
+        
+        "G":
+        {
+            "item": "tranquilexp:galarite_ingot"
+        }
+    },
+   
+    "result":
+    {
+        "item": "tranquilexp:enriched_galarite",
+        "count": 1
+    }
+}

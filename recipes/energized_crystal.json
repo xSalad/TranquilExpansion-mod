@@ -1,0 +1,34 @@
+{
+    "type": "minecraft:crafting_shaped",
+   
+    "pattern":
+    [
+        "BGB",
+        "GSG",
+        "BGB"
+    ],
+   
+    "key":
+    {
+        "B":
+        {
+            "item": "minecraft:blaze_powder"
+        },
+        
+        "G":
+        {
+            "item": "tranquilexp:galarite_dust"
+        },
+        
+        "S":
+        {
+            "item": "tranquilexp:searium_infused_gem"
+        }
+    },
+   
+    "result":
+    {
+        "item": "tranquilexp:energized_crystal",
+        "count": 1
+    }
+}

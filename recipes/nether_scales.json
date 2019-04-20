@@ -1,0 +1,34 @@
+{
+    "type": "minecraft:crafting_shaped",
+   
+    "pattern":
+    [
+        "BHB",
+        "HNH",
+        "BHB"
+    ],
+   
+    "key":
+    {
+        "B":
+        {
+            "item": "minecraft:blaze_rod"
+        },
+        
+        "H":
+        {
+            "item": "tranquilexp:heavy_scales"
+        },
+        
+        "N":
+        {
+            "item": "minecraft:nether_star"
+        }
+    },
+   
+    "result":
+    {
+        "item": "tranquilexp:nether_scales",
+        "count": 2
+    }
+}

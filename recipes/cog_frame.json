@@ -1,0 +1,31 @@
+{
+    "type": "minecraft:crafting_shaped",
+   
+    "pattern":
+    [
+        "SPS",
+        "P P",
+        "SPS"
+    ],
+   
+    "key":
+    {
+        "S":
+        {
+            "item": "minecraft:stick","data":0
+        },
+        
+        "P":
+        {
+            "item": "minecraft:planks","data":32767
+
+        }
+        
+    },
+   
+    "result":
+    {
+        "item": "tranquilexp:cog_frame",
+        "count": 1
+    }
+}

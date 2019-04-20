@@ -1,0 +1,30 @@
+{
+    "type": "minecraft:crafting_shaped",
+   
+    "pattern":
+    [
+        " C ",
+        "CFC",
+        " C "
+    ],
+   
+    "key":
+    {
+        "C":
+        {
+            "item": "tranquilexp:copper_ingot"
+        },
+        
+        "F":
+        {
+            "item": "tranquilexp:cog_frame"
+        }
+
+    },
+   
+    "result":
+    {
+        "item": "tranquilexp:copper_cog",
+        "count": 1
+    }
+}

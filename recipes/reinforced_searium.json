@@ -1,0 +1,34 @@
+{
+    "type": "minecraft:crafting_shaped",
+   
+    "pattern":
+    [
+        "QIQ",
+        "ISI",
+        "QIQ"
+    ],
+   
+    "key":
+    {
+        "Q":
+        {
+            "item": "minecraft:quartz"
+        },
+        
+        "I":
+        {
+            "item": "minecraft:iron_ingot"
+        },
+        
+        "S":
+        {
+            "item": "tranquilexp:searium_ingot"
+        }
+    },
+   
+    "result":
+    {
+        "item": "tranquilexp:reinforced_searium",
+        "count": 1
+    }
+}

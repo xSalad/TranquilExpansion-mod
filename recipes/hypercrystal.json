@@ -1,0 +1,34 @@
+{
+    "type": "minecraft:crafting_shaped",
+   
+    "pattern":
+    [
+        "EGE",
+        "GHG",
+        "EGE"
+    ],
+   
+    "key":
+    {
+        "E":
+        {
+            "item": "minecraft:ender_eye"
+        },
+        
+        "G":
+        {
+            "item": "tranquilexp:enriched_galarite"
+        },
+        
+        "H":
+        {
+            "item": "minecraft:emerald"
+        }
+    },
+   
+    "result":
+    {
+        "item": "tranquilexp:hyper_energized_crystal",
+        "count": 1
+    }
+}

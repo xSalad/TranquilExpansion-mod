@@ -1,0 +1,27 @@
+{
+    "type": "minecraft:crafting_shaped",
+   
+    "pattern":
+    [
+        "VVV",
+        "VVV",
+        "VVV"
+    ],
+   
+    "key":
+    {
+
+        "V":
+        {
+            "item": "tranquilexp:valium_ingot"
+
+        }
+        
+    },
+   
+    "result":
+    {
+        "item": "tranquilexp:valium_block",
+        "count": 1
+    }
+}
