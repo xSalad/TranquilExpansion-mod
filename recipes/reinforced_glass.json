@@ -1,0 +1,32 @@
+{
+    "type": "minecraft:crafting_shaped",
+   
+    "pattern":
+    [
+        "SGS",
+        "GGG",
+        "SGS"
+    ],
+   
+    "key":
+    {
+        "S":
+        {
+            "item": "tranquilexp:steel_ingot"
+        },
+        
+        "G":
+        {
+            "item": "minecraft:glass_pane","data":0
+
+        }
+        
+        
+    },
+   
+    "result":
+    {
+        "item": "tranquilexp:reinforced_glass_panel",
+        "count": 1
+    }
+}

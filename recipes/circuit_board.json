@@ -1,0 +1,48 @@
+{
+    "type": "minecraft:crafting_shaped",
+   
+    "pattern":
+    [
+        "RDR",
+        "CXC",
+        "TDT"
+    ],
+   
+    "key":
+    {
+        "R":
+        {
+            "item": "minecraft:repeater"
+        },
+        
+        "D":
+        {
+            "item": "tranquilexp:tin_dust"
+
+        },
+        
+        "X":
+        {
+            "item": "tranquilexp:copper_ingot"
+
+        },
+        
+        "T":
+        {
+            "item": "minecraft:redstone_torch"
+
+        },
+        
+        "C":
+        {
+            "item": "minecraft:dye","data":2
+
+        }
+    },
+   
+    "result":
+    {
+        "item": "tranquilexp:circuit_board",
+        "count": 1
+    }
+}

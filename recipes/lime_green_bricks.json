@@ -1,0 +1,30 @@
+{
+    "type": "minecraft:crafting_shaped",
+   
+    "pattern":
+    [
+        "BBB",
+        "BXB",
+        "BBB"
+    ],
+   
+    "key":
+    {
+        "B":
+        {
+            "item": "minecraft:brick_block"
+        },
+        
+        "X":
+        {
+            "item": "minecraft:dye","data":10
+        }
+
+    },
+   
+    "result":
+    {
+        "item": "tranquilexp:lime_green_bricks",
+        "count": 8
+    }
+}

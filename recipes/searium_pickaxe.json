@@ -1,0 +1,38 @@
+{
+    "type": "minecraft:crafting_shaped",
+   
+    "pattern":
+    [
+        "SGS",
+        " R ",
+        " R "
+    ],
+   
+    "key":
+    {
+        "S":
+        {
+            "item": "tranquilexp:reinforced_searium"
+        },
+        
+        "G":
+        {
+            "item": "tranquilexp:searium_infused_gem"
+
+        },
+        
+        "R":
+        {
+            "item": "tranquilexp:searium_tool_rod"
+
+        }
+        
+        
+    },
+   
+    "result":
+    {
+        "item": "tranquilexp:searium_pickaxe",
+        "count": 1
+    }
+}

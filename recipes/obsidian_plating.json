@@ -1,0 +1,37 @@
+{
+    "type": "minecraft:crafting_shaped",
+   
+    "pattern":
+    [
+        "SOS",
+        "ODO",
+        "SOS"
+    ],
+   
+    "key":
+    {
+        "S":
+        {
+            "item": "tranquilexp:steel_ingot"
+        },
+        
+        "O":
+        {
+            "item": "minecraft:obsidian","data":0
+
+        },
+        
+        "D":
+        {
+            "item": "minecraft:diamond","data":0
+
+        }
+        
+    },
+   
+    "result":
+    {
+        "item": "tranquilexp:obsidian_plating",
+        "count": 2
+    }
+}

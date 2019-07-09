@@ -1,0 +1,29 @@
+{
+    "type": "minecraft:crafting_shaped",
+   
+    "pattern":
+    [
+        " T ",
+        "TXT",
+        " T "
+    ],
+   
+    "key":
+    {
+        "T":
+        {
+            "item": "tranquilexp:thermal_powder"
+        },
+
+        "X":
+        {
+            "item": "tranquilexp:tekritium_ingot"
+        }
+    },
+   
+    "result":
+    {
+        "item": "tranquilexp:enriched_tekritium",
+        "count": 1
+    }
+}

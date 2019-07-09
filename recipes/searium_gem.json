@@ -1,0 +1,34 @@
+{
+    "type": "minecraft:crafting_shaped",
+   
+    "pattern":
+    [
+        "SRS",
+        "RDR",
+        "SRS"
+    ],
+   
+    "key":
+    {
+        "R":
+        {
+            "item": "minecraft:redstone"
+        },
+        
+        "D":
+        {
+            "item": "minecraft:diamond"
+        },
+        
+        "S":
+        {
+            "item": "tranquilexp:searium_ingot"
+        }
+    },
+   
+    "result":
+    {
+        "item": "tranquilexp:searium_infused_gem",
+        "count": 1
+    }
+}

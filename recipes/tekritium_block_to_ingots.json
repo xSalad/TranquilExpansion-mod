@@ -1,0 +1,25 @@
+{
+    "type": "minecraft:crafting_shaped",
+   
+    "pattern":
+    [
+        "X"       
+    ],
+   
+    "key":
+    {
+
+        "X":
+        {
+            "item": "tranquilexp:tekritium_block"
+
+        }
+        
+    },
+   
+    "result":
+    {
+        "item": "tranquilexp:tekritium_ingot",
+        "count": 9
+    }
+}

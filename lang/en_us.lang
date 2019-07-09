@@ -1,0 +1,102 @@
+//Tools
+item.searium_sword.name=Searium Sword
+item.searium_pickaxe.name=Searium Pickaxe
+item.searium_shovel.name=Searium Shovel
+item.searium_axe.name=Searium Axe
+item.searium_hoe.name=Searium Hoe
+item.tekritium_sword.name=Tekritium Sword
+item.tekritium_pickaxe.name=Tekritium Pickaxe
+item.tekritium_shovel.name=Tekritium Shovel
+item.tekritium_axe.name=Tekritium Axe
+item.tekritium_hoe.name=Tekritium Hoe
+
+//Armor
+item.searium_helmet.name=Searium Helmet
+item.searium_chestplate.name=Searium Chestplate
+item.searium_leggings.name=Searium Leggings
+item.searium_boots.name=Searium Boots
+
+//Items
+item.galarite_clump.name=Galarite Clump
+item.searium_ingot.name=Searium Ingot
+item.large_galarite_clump.name=Large Galarite Clump
+item.galarite_ingot.name=Galarite Ingot
+item.energized_crystal.name=Energized Crystal
+item.heavy_scales.name=Heavy Scales
+item.enriched_galarite.name=Enriched Galarite
+item.reinforced_searium.name=Reinforced Searium
+item.searium_infused_gem.name=Searium-Infused Gem
+item.searium_tool_rod.name=Searium Tool Rod
+item.obsidian_tool_rod.name=Obsidian Tool Rod
+item.steel_ingot.name=Steel Ingot
+item.coal_dust.name=Coal Dust
+item.iron_dust.name=Iron Dust
+item.steel_dust.name=Steel Dust
+item.galarite_dust.name=Galarite Dust
+item.nether_scales.name=Nether Scales
+item.hyper_energized_crystal.name=Hyper-Energized Crystal
+item.copper_ingot.name=Copper Ingot
+item.cog_frame.name=Cog Frame
+item.copper_cog.name=Copper Cog
+item.tin_cog.name=Tin Cog
+item.iron_cog.name=Iron Cog
+item.titanium_cog.name=Titanium Cog
+item.searium_cog.name=Searium Cog
+item.tekritium_cog.name=Tekritium Cog
+item.copper_dust.name=Copper Dust
+item.titanium_ingot.name=Titanium Ingot
+item.tin_ingot.name=Tin Ingot
+item.valium_ingot.name=Valium Ingot
+item.tekritium_ingot.name=Tekritium Ingot
+item.tin_dust.name=Tin Dust
+item.reinforced_glass_panel.name=Reinforced Glass Panel
+item.obsidian_plating.name=Obsidian Plating
+item.circuit_board.name=Circuit Board
+item.fortified_machine_plating.name=Fortified Machine Plating
+item.storage_tank.name=Storage Tank
+item.advanced_pipe.name=Advanced Pipe
+item.enriched_tekritium.name=Enriched Tekritium
+item.thermal_powder.name=Thermal Powder
+
+//Blocks
+tile.searium_ore.name=Searium Ore
+tile.galarite_ore.name=Galarite Ore
+tile.titanium_ore.name=Titanium Ore
+tile.copper_ore.name=Copper Ore
+tile.lumium_ore.name=Lumium Ore
+tile.tin_ore.name=Tin Ore
+tile.valium_ore.name=Valium Ore
+tile.tekritium_ore.name=Tekritium Ore
+tile.doomium_ore.name=Doomium Ore
+tile.creatite_ore.name=Creatite Ore
+tile.hardened_cobble.name=Hardened Cobblestone
+tile.copper_block.name=Block of Copper
+tile.tin_block.name=Block of Tin
+tile.titanium_block.name=Block of Titanium
+tile.searium_block.name=Block of Searium
+tile.galarite_block.name=Block of Galarite
+tile.valium_block.name=Block of Valium
+tile.tekritium_block.name=Block of Tekritium
+tile.hugo_block.name=Block of Hugo
+tile.white_bricks.name=White Stained Bricks
+tile.light_gray_bricks.name=Light Gray Stained Bricks
+tile.gray_bricks.name=Gray Stained Bricks
+tile.black_bricks.name=Black Stained Bricks
+tile.brown_bricks.name=Brown Stained Bricks
+tile.red_bricks.name=Red Stained Bricks
+tile.orange_bricks.name=Orange Stained Bricks
+tile.yellow_bricks.name=Yellow Stained Bricks
+tile.lime_green_bricks.name=Lime Green Stained Bricks
+tile.green_bricks.name=Green Stained Bricks
+tile.cyan_bricks.name=Cyan Stained Bricks
+tile.light_blue_bricks.name=Light Blue Stained Bricks
+tile.blue_bricks.name=Blue Stained Bricks
+tile.purple_bricks.name=Purple Stained Bricks
+tile.magenta_bricks.name=Magenta Stained Bricks
+tile.pink_bricks.name=Pink Stained Bricks
+
+//Machines
+tile.alloy_caster.name=Alloy Caster
+container.alloy_caster=Alloy Caster
+
+itemGroup.tranquilexpansion=TranquilExpansion

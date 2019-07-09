@@ -1,0 +1,37 @@
+{
+    "type": "minecraft:crafting_shaped",
+   
+    "pattern":
+    [
+        "HOH",
+        "OCO",
+        "HOH"
+    ],
+   
+    "key":
+    {
+        "H":
+        {
+            "item": "tranquilexp:hardened_cobble"
+        },
+        
+        "O":
+        {
+            "item": "tranquilexp:obsidian_plating"
+
+        },
+        
+        "C":
+        {
+            "item": "tranquilexp:circuit_board"
+
+        }
+        
+    },
+   
+    "result":
+    {
+        "item": "fortified_machine_plating",
+        "count": 1
+    }
+}

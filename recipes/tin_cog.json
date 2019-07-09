@@ -1,0 +1,30 @@
+{
+    "type": "minecraft:crafting_shaped",
+   
+    "pattern":
+    [
+        " T ",
+        "TFT",
+        " T "
+    ],
+   
+    "key":
+    {
+        "T":
+        {
+            "item": "tranquilexp:tin_ingot"
+        },
+ 
+        "F":
+        {
+            "item": "tranquilexp:cog_frame"
+        }
+
+    },
+   
+    "result":
+    {
+        "item": "tranquilexp:tin_cog",
+        "count": 1
+    }
+}

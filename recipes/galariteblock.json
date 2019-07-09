@@ -1,0 +1,27 @@
+{
+    "type": "minecraft:crafting_shaped",
+   
+    "pattern":
+    [
+        "GGG",
+        "GGG",
+        "GGG"
+    ],
+   
+    "key":
+    {
+
+        "G":
+        {
+            "item": "tranquilexp:enriched_galarite"
+
+        }
+        
+    },
+   
+    "result":
+    {
+        "item": "tranquilexp:galarite_block",
+        "count": 1
+    }
+}

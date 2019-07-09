@@ -1,0 +1,29 @@
+{
+    "type": "minecraft:crafting_shaped",
+   
+    "pattern":
+    [
+        "CIC",
+        "ICI",
+        "CIC"
+    ],
+   
+    "key":
+    {
+        "C":
+        {
+            "item": "tranquilexp:coal_dust"
+        },
+        
+        "I":
+        {
+            "item": "tranquilexp:iron_dust"
+        }
+    },
+   
+    "result":
+    {
+        "item": "tranquilexp:steel_dust",
+        "count": 2
+    }
+}
